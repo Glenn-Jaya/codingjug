@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "codingjug"
+theme = "tale"
+[Author]
+    name = "Glenn"
